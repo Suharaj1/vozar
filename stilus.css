@@ -24,12 +24,13 @@ body{
     background-color: black;
 }
 #kereso{
-float: left;
-margin-left: auto;
+float: right;
+
 }
 
 #2 {
-    float: left;
+    float: none;
+    padding-top: 0%;
 
 
 
